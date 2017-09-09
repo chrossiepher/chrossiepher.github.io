@@ -1,0 +1,21 @@
+body{
+	background-color: rgb(144, 186, 219);
+
+}
+h1{
+	text-align: center;
+	color: blue;
+	-webkit-text-stroke-width: .5px;
+	-webkit-text-stroke-color: white;
+	text-shadow: 2px;
+
+}
+.subject{
+	color: red;
+}
+h3{
+	text-align: center;
+	 text-decoration-line: underline;
+  	text-decoration-style: wavy;
+  	text-decoration-color: red;
+}
